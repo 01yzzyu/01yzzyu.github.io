@@ -1,22 +1,62 @@
 main:
+  - title: "Toward enhancing environmental quality in OECD countries: Role of municipal waste, renewable energy, environmental innovation, and environmental policy"
+    authors: Mengying Su, <strong><u>Zhongyu Yang*</u></strong>, Shujaat Abbas, Yuriy Bilan, Agnieszka Majewska
+    conference_short: Renewable Energy
+    conference: Renewable Energy (SCI Q1 TOP, IF = 9.0)
+    pdf: https://doi.org/10.1016/j.renene.2023.05.044
+    image: ../assets/img/pub/renewenegry.png
+    type: economy
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "Green effect of energy transition policy: A quasi-natural Experiment Based on New Energy Demonstration Cities"
+    authors: Zhichao Yu, Wenlan Xie, Junjie Guo, <strong><u>Zhongyu Yang*</u></strong>
+    conference_short: FRL
+    conference: Finance Research Letters (SSCI Q1 TOP, 1/111, IF = 10.4)
+    pdf: https://doi.org/10.1016/j.frl.2024.105669
+    image: ../assets/img/pub/Greeneffect.png
+    type: economy
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "WikiAutoGen: Towards Multi-Modal Wikipedia-Style Article Generation"
+    authors: <strong><u>Zhongyu Yang</u></strong>, Jun Chen, Dannong Xu, Junjie Fei, Xiaoqian Shen, Liangbing Zhao, Chun-Mei Feng, Mohamed Elhoseiny
+    conference_short: HF Daily
+    conference: Hugging Face Daily Papers
+    page: https://wikiautogen.github.io/
+    image: ../assets/img/pub/wikiautogen_framework.png
+    type: genai
+
+  - title: "ReChar: <font color=\"#FF0000\">Re</font>vitalising <font color=\"#FF0000\">Char</font>acters with Structure-Preserved and User-Specified Aesthetic Enhancements"
+    authors: <strong><u>Zhongyu Yang</u></strong>, Zuhao Yang, Zhang Luo, Yonghan Zhang, Yang Xu, Wei Pang, Jingfen Lan, Yingfang Yuan*
+    conference_short: Under Review
+    conference: Under Review
+    page: https://01yzzyu.github.io/rechar.github.io/
+    image: ../assets/img/pub/rechar_framework.png
+    type: genai
+
+  - title: "Tropical Representations of Chinese Monoids with and without Involution"
+    authors: <strong><u>Zhongyu Yang</u></strong>, Hao Wu
+    conference_short: Tech Report
+    conference: Technology Report
+    pdf: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/01yzzyu/yzzyu.github.io/master/assets/Tropical_Representation.pdf
+    image: ../assets/img/pub/tropical_representations.png
+    type: math
+
+  - title: "MultiHaystack: Benchmarking Multimodal Reasoning over 2K Images, Videos, and Documents"
+    authors: Dannong Xu$^\dagger$, <strong><u>Zhongyu Yang$^\dagger$</u></strong>, Jun Chen, et al.
+    conference_short: Under Review
+    conference: Under review
+    page: https://huggingface.co/datasets/DanielXu0208/MultiHaystack
+    image: ../assets/img/pub/MultiHaystack.png
+    type: mllm
+
+  - title: "EmoRes: Toward User-Agnostic Psychological Support via Topic-Mining Emotional Agent"
+    authors: Zhengwei Zou$^\dagger$, <strong><u>Zhongyu Yang$^\dagger$</u></strong>, Xuanming Jiang$^\dagger$, et al.
+    conference_short: Under Review
+    conference: Under review
+    image: ../assets/img/pub/EmoRes.png
+    type: mllm
+
+  - title: "MERMAID: Multi-perspective Self-reflective Agents with Generative Augmentation for Emotion Recognition"
+    authors: <strong><u>Zhongyu Yang</u></strong>, Junhao Song, Yingfang Yuan, et al.
+    conference_short: Under Review
+    conference: Under review
+    image: ../assets/img/pub/MERMAID.png
+    type: mllm

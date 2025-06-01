@@ -4,20 +4,20 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am currently a final-year undergraduate student of Mathematics (Basic Theory Class) at [Lanzhou University](https://en.lzu.edu.cn/). I am also working as a Remote Research Intern at [Vision-CAIR, King Abdullah University of Science and Technology (KAUST)](https://vision-cair.kaust.edu.sa/), supervised by [Mohamed Elhoseiny](https://cemse.kaust.edu.sa/people/person/mohamed-elhoseiny).
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Generative Models:** Image Generation, Video Generation, Sequence Generation
+- **Vision-Language:** Multi-Modal Comprehension and Generation
 
-## News
+{% include_relative _includes/news.md %}
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+{% include_relative _includes/experience.md %}
 
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
+
+{% include_relative _includes/others.md %}
+

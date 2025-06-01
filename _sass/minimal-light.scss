@@ -69,7 +69,7 @@
   -webkit-user-select:none;
   -moz-user-select:none;
   -ms-user-select:none;
-  user-select:none;width:3.6rem}
+  user-select:none;width:3.6rem;}
 
 .icon-button span{
   border-radius:0;
@@ -270,12 +270,12 @@ h1 {
 }
 
 a {
-  color:#39c;
+  color:#069;
   text-decoration:none;
 }
 
 a:hover {
-  color:#069;
+  color: #ffb81c;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -355,16 +355,18 @@ img {
   max-width:100%;
 }
 
+video {
+    max-width:100%;
+}
+
 header {
   width:232px;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
   padding-top:4.0em;
-  text-align:center
+  text-align:center;
 }
-
-
 
 header ul {
   list-style:none;
@@ -474,10 +476,6 @@ footer {
     float:none;
     position:static;
     width:auto;
-  }
-
-  header {
-    padding-right:320px;
   }
 
   section {
