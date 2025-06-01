@@ -40,7 +40,7 @@ main:
     type: math
 
   - title: "MultiHaystack: Benchmarking Multimodal Reasoning over 2K Images, Videos, and Documents"
-    authors: Dannong Xu$^\dagger$, <strong><u>Zhongyu Yang$^\dagger$</u></strong>, Jun Chen, et al.
+    authors: Dannong Xu, <strong><u>Zhongyu Yang</u></strong>, Jun Chen, et al.
     conference_short: Under Review
     conference: Under review
     page: https://huggingface.co/datasets/DanielXu0208/MultiHaystack
@@ -48,7 +48,7 @@ main:
     type: mllm
 
   - title: "EmoRes: Toward User-Agnostic Psychological Support via Topic-Mining Emotional Agent"
-    authors: Zhengwei Zou$^\dagger$, <strong><u>Zhongyu Yang$^\dagger$</u></strong>, Xuanming Jiang$^\dagger$, et al.
+    authors: Zhengwei Zou, <strong><u>Zhongyu Yang</u></strong>, Xuanming Jiang, et al.
     conference_short: Under Review
     conference: Under review
     image: ../assets/img/pub/EmoRes.png
