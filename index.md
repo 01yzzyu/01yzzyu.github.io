@@ -19,5 +19,4 @@ I am currently a final-year undergraduate student of Mathematics (Basic Theory C
 
 {% include_relative _includes/services.md %}
 
-{% include_relative _includes/others.md %}
 
