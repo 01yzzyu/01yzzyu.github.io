@@ -2,12 +2,12 @@ main:
 
   - title: "WikiAutoGen: Towards Multi-Modal Wikipedia-Style Article Generation"
     authors: <strong><u>Zhongyu Yang†</u></strong>, Jun Chen†, Dannong Xu, Junjie Fei, Xiaoqian Shen, Liangbing Zhao, Chun-Mei Feng, Mohamed Elhoseiny
-    conference_short: HF Daily
-    conference: ICCV, Hugging Face Daily Papers
+    conference_short: ICCV2025
+    conference: ICCV 2025, Hugging Face Daily Papers
     pdf: https://arxiv.org/abs/2503.19065
     page: https://wikiautogen.github.io/
     image: ../assets/img/pub/wikiautogen_framework.png
-    type: genai, mllm
+    type: mllm
 
   - title: "ReChar: <font color=\"#FF0000\">Re</font>vitalising <font color=\"#FF0000\">Char</font>acters with Structure-Preserved and User-Specified Aesthetic Enhancements"
     authors: <strong><u>Zhongyu Yang</u></strong>, Zuhao Yang, Zhang Luo, Yonghan Zhang, Yang Xu, Wei Pang, Jingfen Lan, Yingfang Yuan*
