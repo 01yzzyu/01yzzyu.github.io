@@ -16,37 +16,6 @@ main:
     image: ../assets/img/pub/MERMAID.png
     type: mllm   
 
-  - title: "InEx: Hallucination Mitigation via Introspection and Cross-Modal Multi-Agent Collaboration"
-    authors: <strong><u>Zhongyu Yang</u></strong>, Yingfang Yuan, Xuanming Jiang, Baoyi An, Wei Pang
-    conference_short: Under Review
-    conference: Under review
-    image: ../assets/img/pub/InEx.png
-    type: mllm
-
-  - title: "Script: Graph-Structured and Query-Conditioned Semantic Token Pruning for Multimodal Large Language Models"
-    authors:  <strong><u>Zhongyu Yang</u></strong>, Dannong Xu, Wei Pang, Yingfang Yuan
-    conference_short: Under Review
-    conference: Under review
-    pdf: https://openreview.net/forum?id=F6xKzbgcHq
-    image: ../assets/img/pub/Script.png
-    type: mllm
-    
-  - title: "MultiHaystack: Benchmarking Multimodal Reasoning over 2K Images, Videos, and Documents"
-    authors: Dannong Xu†, <strong><u>Zhongyu Yang†</u></strong>, Jun Chen, Ming Hu, Zongyuan Ge, Chun-Mei Feng
-    conference_short: Under Review
-    conference: Under review
-    page: https://huggingface.co/datasets/DanielXu0208/MultiHaystack
-    image: ../assets/img/pub/MultiHaystack.png
-    type: mllm
-
-  - title: "ReChar: <font color=\"#FF0000\">Re</font>vitalising <font color=\"#FF0000\">Char</font>acters with Structure-Preserved and User-Specified Aesthetic Enhancements"
-    authors: <strong><u>Zhongyu Yang</u></strong>, Zuhao Yang, Zhang Luo, Yonghan Zhang, Yang Xu, Wei Pang, Jingfen Lan, Yingfang Yuan*
-    conference_short: Under Review
-    conference: Under Review
-    page: https://01yzzyu.github.io/rechar.github.io/
-    image: ../assets/img/pub/rechar_framework.png
-    type: genai
-
   - title: "Tropical Representations of Chinese Monoids with and without Involution"
     authors: <strong><u>Zhongyu Yang</u></strong>, Hao Wu
     conference_short: Tech Report
