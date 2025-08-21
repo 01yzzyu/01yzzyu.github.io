@@ -9,21 +9,34 @@ main:
     image: ../assets/img/pub/wikiautogen_framework.png
     type: mllm
 
-
-- title: "MultiHaystack: Benchmarking Multimodal Reasoning over 2K Images, Videos, and Documents"
-    authors: Dannong Xu†, <strong><u>Zhongyu Yang†</u></strong>, Jun Chen, et al.
-    conference_short: Under Review
-    conference: Under review
-    page: https://huggingface.co/datasets/DanielXu0208/MultiHaystack
-    image: ../assets/img/pub/MultiHaystack.png
-    type: mllm
-    
   - title: "ReChar: <font color=\"#FF0000\">Re</font>vitalising <font color=\"#FF0000\">Char</font>acters with Structure-Preserved and User-Specified Aesthetic Enhancements"
     authors: <strong><u>Zhongyu Yang</u></strong>, Zuhao Yang, Zhang Luo, Yonghan Zhang, Yang Xu, Wei Pang, Jingfen Lan, Yingfang Yuan*
     conference_short: Under Review
     conference: Under Review
     page: https://01yzzyu.github.io/rechar.github.io/
     image: ../assets/img/pub/rechar_framework.png
+    type: genai
+
+  - title: "MultiHaystack: Benchmarking Multimodal Reasoning over 2K Images, Videos, and Documents"
+    authors: Dannong Xu†, <strong><u>Zhongyu Yang†</u></strong>, Jun Chen, et al.
+    conference_short: Under Review
+    conference: Under review
+    page: https://huggingface.co/datasets/DanielXu0208/MultiHaystack
+    image: ../assets/img/pub/MultiHaystack.png
+    type: mllm
+
+  - title: "MERMAID: Multi-perspective Self-reflective Agents with Generative Augmentation for Emotion Recognition"
+    authors: <strong><u>Zhongyu Yang</u></strong>, Junhao Song, Yingfang Yuan, et al.
+    conference_short: Under Review
+    conference: Under review
+    image: ../assets/img/pub/MERMAID.png
+    type: mllm
+    
+  - title: "EmoRes: Toward User-Agnostic Psychological Support via Topic-Mining Emotional Agent"
+    authors: Zhengwei Zou†, <strong><u>Zhongyu Yang†</u></strong>, Xuanming Jiang, et al.
+    conference_short: Under Review
+    conference: Under review
+    image: ../assets/img/pub/EmoRes.png
     type: genai
 
   - title: "Tropical Representations of Chinese Monoids with and without Involution"
@@ -49,5 +62,4 @@ main:
     pdf: https://doi.org/10.1016/j.frl.2024.105669
     image: ../assets/img/pub/Greeneffect.png
     type: economy
-
 
