@@ -12,8 +12,9 @@ I am working as a Remote Research Intern at [Vision-CAIR, King Abdullah Universi
 - **Vision-Language:** Multi-modal Comprehension and Generation
 - **Efficient:** Multi-modal token compression for efficient modeling
 
-My long-term goal is to build general-purpose multimodal systems that can perceive, reason, and
-communicate effectively across visual, textual, and behavioral modalities in dynamic, real-world environments.
+My long-term goal is to build general-purpose multimodal systems that can perceive, reason, and communicate effectively across visual, textual, and behavioral modalities in dynamic, real-world environments.
+
+Feel free to [reach out to me](https://raw.githubusercontent.com/01yzzyu/01yzzyu.github.io/main/assets/img/Wechat.jpg) for collaborations, questions, or just to chat!
 
 {% include_relative _includes/news.md %}
 
