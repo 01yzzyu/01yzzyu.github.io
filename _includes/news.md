@@ -26,7 +26,9 @@
 </style>
 
 <ul id="scrollableDiv" onmouseover="showScrollbar()" onmouseout="hideScrollbar()">
-    <li><b>[2025.06]</b> <a href="https://wikiautogen.github.io">WikiAutoGen</a> get accepted to ICCV2025🎉. </li>
+  <li><b>[2025.08]</b> MERMAID get accepted to EMNLP 2025 Main🎉. </li>
+  
+  <li><b>[2025.06]</b> <a href="https://wikiautogen.github.io">WikiAutoGen</a> get accepted to ICCV2025🎉. </li>
 
   <li><b>[2025.03]</b> We present <a href="https://wikiautogen.github.io">WikiAutoGen</a> for automated multimodal Wikipedia-style article generation. Featured in <a href="https://x.com/_akhaliq/status/1904900714519761315?s=46" style="color:#FF0000;">Hugging Face Daily Papers</a> and reposted by <a href="https://x.com/_akhaliq?t=Xbpfc0mTpJQfRsiC_ugQrw&s=09">AK</a>.</li>
 
