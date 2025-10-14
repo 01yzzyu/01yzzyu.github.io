@@ -20,8 +20,8 @@ main:
 
   - title: "ReChar: Revitalising Characters with Structure Preserved and User-Specified Aesthetic Enhancements"
     authors: <strong><u>Zhongyu Yang</u></strong>, Junhao Song, Zhang Luo, Zuhao Yang, Yang Xu, Jingfen Lan, Yonghan Zhang, Wei Pang, Siyang Song, Yingfang Yuan
-    conference_short: SIGGRAPH ASIA 2025
-    conference: SIGGRAPH ASIA 2025
+    conference_short: SIGGRAPH Asia 2025
+    conference: SIGGRAPH Asia 2025
     pdf: https://01yzzyu.github.io/rechar.github.io/
     image: ../assets/img/pub/rechar.png
     page: https://01yzzyu.github.io/rechar.github.io/
