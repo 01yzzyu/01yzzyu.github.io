@@ -13,6 +13,7 @@ main:
     authors: <strong><u>Zhongyu Yang</u></strong>, Junhao Song, Siyang Song, Wei Pang, Yingfang Yuan
     conference_short: EMNLP 2025
     conference: EMNLP 2025
+    pdf: https://01yzzyu.github.io/mermaid.github.io/
     image: ../assets/img/pub/MERMAID.png
     page: https://01yzzyu.github.io/mermaid.github.io/
     type: mllm   
@@ -21,6 +22,7 @@ main:
     authors: <strong><u>Zhongyu Yang</u></strong>, Junhao Song, Zhang Luo, Zuhao Yang, Yang Xu, Jingfen Lan, Yonghan Zhang, Wei Pang, Siyang Song, Yingfang Yuan
     conference_short: SIGGRAPH ASIA 2025
     conference: SIGGRAPH ASIA 2025
+    pdf: https://01yzzyu.github.io/rechar.github.io/
     image: ../assets/img/pub/rechar.png
     page: https://01yzzyu.github.io/rechar.github.io/
     type: genai
