@@ -26,7 +26,9 @@
 </style>
 
 <ul id="scrollableDiv" onmouseover="showScrollbar()" onmouseout="hideScrollbar()">
-  <li><b>[2025.08]</b>  <a href="https://01yzzyu.github.io/rechar.github.io/">ReChar</a> get accepted to SIGGRAPH ASIA 2025🎉. </li>
+    <li><b>[2025.08]</b>  <a href="https://01yzzyu.github.io/script.github.io/">Script</a> get accepted to TMLR 2025🎉. </li>
+  
+  <li><b>[2025.08]</b>  <a href="https://01yzzyu.github.io/rechar.github.io/">ReChar</a> get accepted to SIGGRAPH Asia 2025🎉. </li>
   
   <li><b>[2025.08]</b>  <a href="https://01yzzyu.github.io/mermaid.github.io/">MERMAID</a> get accepted to EMNLP 2025 Main🎉. </li>
   
