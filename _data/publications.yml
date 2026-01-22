@@ -7,7 +7,7 @@ main:
     pdf: https://arxiv.org/abs/2601.14245
     page: https://01yzzyu.github.io/xr.github.io/
     code: https://github.com/01yzzyu/xr.github.io/tree/master/XR
-    image: ../assets/img/pub/xr.png
+    image: ../assets/img/pub/XR.png
     type: mllm
 
   - title: "WikiAutoGen: Towards Multi-Modal Wikipedia-Style Article Generation"
