@@ -26,7 +26,9 @@
 </style>
 
 <ul id="scrollableDiv" onmouseover="showScrollbar()" onmouseout="hideScrollbar()">
-  <li><b>[2025.11]</b>  InEx get accepted to AAAI 2026 🎉. </li>
+  <li><b>[2026.01]</b>  <a href="https://01yzzyu.github.io/xr.github.io/">XR</a> get accepted to WWW 2026 🎉. </li>
+  
+  <li><b>[2025.11]</b>  <a href="https://01yzzyu.github.io/inex.github.io/">InEx</a> get accepted to AAAI 2026 🎉. </li>
   
   <li><b>[2025.10]</b>  <a href="https://01yzzyu.github.io/script.github.io/">Script</a> get accepted to TMLR 2025 🎉. </li>
   
