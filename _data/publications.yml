@@ -1,23 +1,44 @@
 main:
 
+  - title: "XR: Cross-Modal Agents for Composed Image Retrieval"
+    authors: <strong><u>Zhongyu Yang†</u></strong>, Wei Pang, Yingfang Yuan
+    conference_short: WWW 2026
+    conference: WWW 2026
+    pdf: https://arxiv.org/abs/2601.14245
+    page: https://01yzzyu.github.io/xr.github.io/
+    code: https://github.com/01yzzyu/xr.github.io/tree/master/XR
+    image: ../assets/img/pub/xr.png
+    type: mllm
+
   - title: "WikiAutoGen: Towards Multi-Modal Wikipedia-Style Article Generation"
     authors: <strong><u>Zhongyu Yang†</u></strong>, Jun Chen†, Dannong Xu, Junjie Fei, Xiaoqian Shen, Liangbing Zhao, Chun-Mei Feng, Mohamed Elhoseiny
     conference_short: ICCV 2025
     conference: ICCV 2025, Hugging Face Daily Papers
     pdf: https://arxiv.org/abs/2503.19065
     page: https://wikiautogen.github.io/
+    code: https://github.com/01yzzyu/wikiautogen
     image: ../assets/img/pub/wikiautogen_framework.png
     type: mllm
-
+    
   - title: "Script: Graph-Structured and Query-Conditioned Semantic Token Pruning for Multimodal Large Language Models"
     authors: <strong><u>Zhongyu Yang†</u></strong>, Dannong Xu†, Wei Pang, Yingfang Yuan
     conference_short: TMLR 2025
     conference: TMLR 2025
-    pdf: https://01yzzyu.github.io/script.github.io/
+    pdf: https://openreview.net/forum?id=F6xKzbgcHq
     image: ../assets/img/pub/script.png
+    code: https://github.com/01yzzyu/script.github.io/tree/master/Script
     page: https://01yzzyu.github.io/script.github.io/
     type: mllm   
 
+  - title: "InEx: Hallucination Mitigation via Introspection and Cross-Modal Multi-Agent Collaboration"
+    authors: <strong><u>Zhongyu Yang</u></strong>, Zhongyu Yang, Yingfang Yuan, Xuanming Jiang, Baoyi An, Wei Pang 
+    conference_short: AAAI 2026
+    conference: AAAI 2026
+    pdf: https://arxiv.org/pdf/2512.02981
+    page: https://01yzzyu.github.io/inex.github.io/
+    image: ../assets/img/pub/InEx.png
+    type: mllm   
+    
   - title: "MERMAID: Multi-perspective Self-reflective Agents with Generative Augmentation for Emotion Recognition"
     authors: <strong><u>Zhongyu Yang</u></strong>, Junhao Song, Siyang Song, Wei Pang, Yingfang Yuan
     conference_short: EMNLP 2025
@@ -25,14 +46,6 @@ main:
     pdf: https://01yzzyu.github.io/mermaid.github.io/
     image: ../assets/img/pub/MERMAID.png
     page: https://01yzzyu.github.io/mermaid.github.io/
-    type: mllm   
-
-  - title: "InEx: Hallucination Mitigation via Introspection and Cross-Modal Multi-Agent Collaboration"
-    authors: <strong><u>Zhongyu Yang</u></strong>, Zhongyu Yang, Yingfang Yuan, Xuanming Jiang, Baoyi An, Wei Pang 
-    conference_short: AAAI 2026
-    conference: AAAI 2026
-    pdf: https://01yzzyu.github.io/
-    image: ../assets/img/pub/InEx.png
     type: mllm   
 
   - title: "ReChar: Revitalising Characters with Structure Preserved and User-Specified Aesthetic Enhancements"
