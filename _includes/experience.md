@@ -1,13 +1,6 @@
 <ul style="margin:0 0 5px;">
 <li style="display: flex; justify-content: space-between; align-items: center; margin-left: -30px;">
   <span>
-    <img src="../assets/img/org/kaust.png" alt="KAUST" width="20" height="20" style="vertical-align: middle; margin-bottom: 4px">
-    Remote Research Intern at <a href="https://vision-cair.kaust.edu.sa/">Vision-CAIR</a>, <strong>KAUST</strong>
-  </span>
-  <span>Dec 2024 – Present</span>
-</li>
-<li style="display: flex; justify-content: space-between; align-items: center; margin-left: -30px;">
-  <span>
     <img src="../assets/img/org/sensetime.png" alt="SenseTime" width="20" height="20" style="vertical-align: middle;">
     Research Intern, General Perceptual Computing Group, <strong>SenseTime</strong>
   </span>
@@ -19,6 +12,13 @@
     Remote Research Intern, <a href="https://bioml.eu.org/"> BCML Lab</a>, <strong>Heriot-Watt University</strong>
   </span>
   <span>Mar 2024 –  Present</span>
+</li>
+<li style="display: flex; justify-content: space-between; align-items: center; margin-left: -30px;">
+  <span>
+    <img src="../assets/img/org/kaust.png" alt="KAUST" width="20" height="20" style="vertical-align: middle; margin-bottom: 4px">
+    Remote Research Intern at <a href="https://vision-cair.kaust.edu.sa/">Vision-CAIR</a>, <strong>KAUST</strong>
+  </span>
+  <span>Dec 2024 – Jan 2026</span>
 </li>
 <li style="display: flex; justify-content: space-between; align-items: center; margin-left: -30px;">
   <span>
