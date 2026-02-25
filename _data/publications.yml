@@ -1,6 +1,15 @@
 main:
 
-  - title: "XR: Cross-Modal Agents for Composed Image Retrieval"
+  - title: "SVAgent: Storyline-guided Long Video Understanding via Cross-modal Multi-agent Collaboration."
+    authors: <strong><u>Zhongyu Yang</u></strong>, Zuhao Yang, Shuo Zhan, Yue Tan, Wei Pang, Yingfang Yuan
+    conference_short: CVPR 2026
+    conference: CVPR 2026
+    pdf: https://arxiv.org/pdf/2512.02981
+    page: https://01yzzyu.github.io/svagent.github.io/
+    image: ../assets/img/pub/svagent.png
+    type: mllm   
+
+  - title: "XR: Cross-Modal Agents for Composed Image Retrieval."
     authors: <strong><u>Zhongyu Yang</u></strong>, Wei Pang, Yingfang Yuan
     conference_short: WWW 2026
     conference: WWW 2026
@@ -10,7 +19,7 @@ main:
     image: ../assets/img/pub/XR.png
     type: mllm
 
-  - title: "WikiAutoGen: Towards Multi-Modal Wikipedia-Style Article Generation"
+  - title: "WikiAutoGen: Towards Multi-Modal Wikipedia-Style Article Generatio.n"
     authors: <strong><u>Zhongyu Yang†</u></strong>, Jun Chen†, Dannong Xu, Junjie Fei, Xiaoqian Shen, Liangbing Zhao, Chun-Mei Feng, Mohamed Elhoseiny
     conference_short: ICCV 2025
     conference: ICCV 2025, Hugging Face Daily Papers
@@ -30,16 +39,16 @@ main:
     page: https://01yzzyu.github.io/script.github.io/
     type: mllm   
 
-  - title: "InEx: Hallucination Mitigation via Introspection and Cross-Modal Multi-Agent Collaboration"
-    authors: <strong><u>Zhongyu Yang</u></strong>, Zhongyu Yang, Yingfang Yuan, Xuanming Jiang, Baoyi An, Wei Pang 
+  - title: "InEx: Hallucination Mitigation via Introspection and Cross-Modal Multi-Agent Collaboration."
+    authors: <strong><u>Zhongyu Yang</u></strong>, Yingfang Yuan, Xuanming Jiang, Baoyi An, Wei Pang 
     conference_short: AAAI 2026
     conference: AAAI 2026
     pdf: https://arxiv.org/pdf/2512.02981
     page: https://01yzzyu.github.io/inex.github.io/
     image: ../assets/img/pub/InEx.png
     type: mllm   
-    
-  - title: "MERMAID: Multi-perspective Self-reflective Agents with Generative Augmentation for Emotion Recognition"
+
+  - title: "MERMAID: Multi-perspective Self-reflective Agents with Generative Augmentation for Emotion Recognition."
     authors: <strong><u>Zhongyu Yang</u></strong>, Junhao Song, Siyang Song, Wei Pang, Yingfang Yuan
     conference_short: EMNLP 2025
     conference: EMNLP 2025
@@ -48,16 +57,24 @@ main:
     page: https://01yzzyu.github.io/mermaid.github.io/
     type: mllm   
 
-  - title: "ReChar: Revitalising Characters with Structure Preserved and User-Specified Aesthetic Enhancements"
+  - title: "ReChar: Revitalising Characters with Structure Preserved and User-Specified Aesthetic Enhancements."
     authors: <strong><u>Zhongyu Yang</u></strong>, Junhao Song, Zhang Luo, Zuhao Yang, Yang Xu, Jingfen Lan, Yonghan Zhang, Wei Pang, Siyang Song, Yingfang Yuan
     conference_short: SIGGRAPH Asia 2025
     conference: SIGGRAPH Asia 2025
-    pdf: https://01yzzyu.github.io/rechar.github.io/
+    pdf: https://dl.acm.org/doi/10.1145/3757376.3771409
     image: ../assets/img/pub/rechar.png
     page: https://01yzzyu.github.io/rechar.github.io/
     type: genai
 
-  - title: "Tropical Representations of Chinese Monoids with and without Involution"
+  - title: "MeteoNet: Next-Generation Efficient Reliable Reconstruction Solution for Full-Scale Non-Uniform Meteorological Fields."
+    authors: Xuanming Jiang, Baoyi An, Dingyu Nie, Haoyu Ren, Zhengwei Zou, Yizhe Yang, Jialie Shen, Zhiwen Jin, Xueming Qian, <strong><u>Zhongyu Yang*</u></strong>, Guoshuai Zhao.
+    conference_short: CVPR 2026
+    conference: CVPR 2026
+    pdf: https://01yzzyu.github.io/metronet.github.io/
+    image: ../assets/img/pub/metronet.png
+    type: genai
+
+  - title: "Tropical Representations of Chinese Monoids with and without Involutio.n"
     authors: <strong><u>Zhongyu Yang</u></strong>, Hao Wu
     conference_short: Tech Report
     conference: Technology Report
@@ -65,7 +82,7 @@ main:
     image: ../assets/img/pub/tropical_representations.png
     type: math
 
-  - title: "Toward enhancing environmental quality in OECD countries: Role of municipal waste, renewable energy, environmental innovation, and environmental policy"
+  - title: "Toward enhancing environmental quality in OECD countries: Role of municipal waste, renewable energy, environmental innovation, and environmental policy."
     authors: Mengying Su, <strong><u>Zhongyu Yang*</u></strong>, Shujaat Abbas, Yuriy Bilan, Agnieszka Majewska
     conference_short: Renewable Energy
     conference: Renewable Energy (SCI Q1 TOP, IF = 9.0)
@@ -73,7 +90,7 @@ main:
     image: ../assets/img/pub/renewenegry.png
     type: economy
 
-  - title: "Green effect of energy transition policy: A quasi-natural Experiment Based on New Energy Demonstration Cities"
+  - title: "Green effect of energy transition policy: A quasi-natural Experiment Based on New Energy Demonstration Cities."
     authors: Zhichao Yu, Wenlan Xie, Junjie Guo, <strong><u>Zhongyu Yang*</u></strong>
     conference_short: FRL
     conference: Finance Research Letters (SSCI Q1 TOP, 1/111, IF = 10.4)
