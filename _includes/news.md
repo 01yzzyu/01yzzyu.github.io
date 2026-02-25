@@ -26,6 +26,10 @@
 </style>
 
 <ul id="scrollableDiv" onmouseover="showScrollbar()" onmouseout="hideScrollbar()">
+  <li><strong style="color: #c13c33;">[Pinned to top]  I am actively seeking for Phd position and a Research internship in 2026. I am happy to engage in discussions regarding potential opportunities!</strong></li>
+    
+  <li><b>[2026.02]</b>  <a href="https://01yzzyu.github.io/svagent.github.io/">SVAgent</a> and MeteoNet get accepted to CVPR 2026 🎉. </li>
+  
   <li><b>[2026.01]</b>  <a href="https://01yzzyu.github.io/xr.github.io/">XR</a> get accepted to WWW 2026 🎉. </li>
   
   <li><b>[2025.11]</b>  <a href="https://01yzzyu.github.io/inex.github.io/">InEx</a> get accepted to AAAI 2026 🎉. </li>
@@ -41,7 +45,7 @@
   <li><b>[2025.03]</b> We present <a href="https://wikiautogen.github.io">WikiAutoGen</a> for automated multimodal Wikipedia-style article generation. Featured in <a href="https://x.com/_akhaliq/status/1904900714519761315?s=46" style="color:#FF0000;">Hugging Face Daily Papers</a> and reposted by <a href="https://x.com/_akhaliq?t=Xbpfc0mTpJQfRsiC_ugQrw&s=09">AK</a>.</li>
 
   <li><b>[2024.12]</b> Started Remote Research Internship with <a href="https://junchen14.github.io/">Jun Chen</a> and <a href="https://www.mohamed-elhoseiny.com/">Mohamed Elhoseiny</a> (KAUST), focusing on web-scale RAG systems for vision.</li>
-
+  
   <li><b>[2024.11]</b> Released <a href="https://01yzzyu.github.io/rechar.github.io/">ReChar</a>: structure-preserving and user-aesthetic-enhanced character generation.</li>
 
   <li><b>[2024.05]</b> Our paper <a href="https://doi.org/10.1016/j.frl.2024.105669">Green Effect of Energy Transition Policy</a> is accepted to Finance Research Letters (SSCI Q1 Top journal) 🎉. </li>
@@ -54,7 +58,7 @@
 
   <li><b>[2024.01]</b> Project <i>UNet-Centric MambaMorph</i> selected as <a href="https://xxb.lzu.edu.cn/xingzhenggongwen/xzgwpdf/2024/0621/271594.html">Outstanding Undergraduate Project</a> (TOP 0.1%) under Barley Plan, advised by Prof. <a href="http://mathteacher.lzu.edu.cn/system/TeacherProfileqt/content.jsp?id=45">Wenting Zhang</a>.</li>
 
-  <li><b>[2023.05]</b> Paper <a href="https://doi.org/10.1016/j.renene.2023.05.044">Environmental Quality in OECD Countries</a> accepted by Renewable Energy (SCI Q1 Top journal) 🎉. </li>
+  <li><b>[2023.05]</b> Paper <a href="https://doi.org/10.1016/j.renene.2023.05.044">Environmental Quality in OECD Countries</a> has accepted by Renewable Energy (SCI Q1 Top journal) 🎉. </li>
 
   <li><b>[2023.03]</b> As sophomore, led innovation project on <a href="http://gjcxcy.bjtu.edu.cn/NewLXItemListForStudentDetail.aspx?ItemNo=1100306">Tropical Linear Representation</a> of Chinese Monoids, advised by Prof. Wenting Zhang. <a href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/01yzzyu/yzzyu.github.io/master/assets/Tropical_Representation.pdf">[Tech Report] can be finding. </a></li>
 </ul>
