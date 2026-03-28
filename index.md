@@ -3,8 +3,8 @@ layout: homepage
 ---
 
 ## About Me
-I am working as a Research Intern at Sensetime, focusing on visual reasoning via Multi-Agent Collaboration. 
-Prior to that, I worked as a Remote Research Intern in [Vision-CAIR, King Abdullah University of Science and Technology (KAUST)](https://vision-cair.kaust.edu.sa/), supervised by [Mohamed Elhoseiny](https://cemse.kaust.edu.sa/people/person/mohamed-elhoseiny), and I earned a Bachelor of Science degree with a major in Mathematics and a minor in Management from Lanzhou University, China.
+I am working as a Research Intern (青云人才计划) at [Hunyuan Group](https://hunyuan.tencent.com/), Tencent, Inc, focusing on omnivideo reasoning. 
+Prior to that, I worked as a Remote Research Intern in [Vision-CAIR, King Abdullah University of Science and Technology (KAUST)](https://vision-cair.kaust.edu.sa/), supervised by [Mohamed Elhoseiny](https://cemse.kaust.edu.sa/people/person/mohamed-elhoseiny), and [Sensetime](https://www.sensetime.com/en). I earned a Bachelor of Science degree with a major in Mathematics and a minor in Management from Lanzhou University, China.
 
 ## Research Interests
 
