@@ -27,6 +27,8 @@
 
 <ul id="scrollableDiv" onmouseover="showScrollbar()" onmouseout="hideScrollbar()">
   <li><strong style="color: #c13c33;">[Pinned to top]  I am actively seeking for Phd position and a Research internship in 2026. I am happy to engage in discussions regarding potential opportunities!</strong></li>
+
+  <li><b>[2026.02]</b>  EmoRes get accepted to ACL 2026 🎉. </li>
     
   <li><b>[2026.02]</b>  <a href="https://01yzzyu.github.io/svagent.github.io/">SVAgent</a> and MeteoNet get accepted to CVPR 2026 🎉. </li>
   
