@@ -4,8 +4,8 @@ main:
     authors: <strong><u>Zhongyu Yang</u></strong>, Zuhao Yang, Shuo Zhan, Yue Tan, Wei Pang, Yingfang Yuan
     conference_short: CVPR 2026
     conference: CVPR 2026
-    pdf: https://arxiv.org/pdf/2512.02981
-    page: https://01yzzyu.github.io/svagent.github.io/
+    pdf: http://arxiv.org/abs/2604.05079
+    # page: https://01yzzyu.github.io/svagent.github.io/
     image: ../assets/img/pub/svagent.png
     type: mllm   
 
@@ -39,6 +39,14 @@ main:
     page: https://01yzzyu.github.io/script.github.io/
     type: mllm   
 
+  - title: "EmoRes: Toward Adaptive Psychological Support via User-Agnostic Benchmark and Topic-Mining Agent"
+    authors: <strong><u>Zhengwei Zou†</u></strong>, <strong><u>Zhongyu Yang†</u></strong>, Xuanming Jiang, Dingyu Nie, Zhengxing Fang, Qingyu Liu, Xueming Qian, Baoyi An, Guoshuai Zhao.
+    conference_short: ACL 2026
+    conference: ACL 2026
+    pdf: xxx
+    image: ../assets/img/pub/emores.png
+    type: mllm   
+    
   - title: "InEx: Hallucination Mitigation via Introspection and Cross-Modal Multi-Agent Collaboration."
     authors: <strong><u>Zhongyu Yang</u></strong>, Yingfang Yuan, Xuanming Jiang, Baoyi An, Wei Pang 
     conference_short: AAAI 2026
