@@ -40,7 +40,7 @@ main:
     type: mllm   
 
   - title: "EmoRes: Toward Adaptive Psychological Support via User-Agnostic Benchmark and Topic-Mining Agent"
-    authors: <strong><u>Zhengwei Zou†</u></strong>, <strong><u>Zhongyu Yang†</u></strong>, Xuanming Jiang, Dingyu Nie, Zhengxing Fang, Qingyu Liu, Xueming Qian, Baoyi An, Guoshuai Zhao.
+    authors: Zhengwei Zou†, <strong><u>Zhongyu Yang†</u></strong>, Xuanming Jiang, Dingyu Nie, Zhengxing Fang, Qingyu Liu, Xueming Qian, Baoyi An, Guoshuai Zhao.
     conference_short: ACL 2026
     conference: ACL 2026
     pdf: xxx
