@@ -19,7 +19,6 @@ main:
     image: ../assets/img/pub/XR.png
     type: mllm
 
-
   - title: "WikiAutoGen: Towards Multi-Modal Wikipedia-Style Article Generation"
     authors: <strong><u>Zhongyu Yang†</u></strong>, Jun Chen†, Dannong Xu, Junjie Fei, Xiaoqian Shen, Liangbing Zhao, Chun-Mei Feng, Mohamed Elhoseiny
     conference_short: ICCV 2025
@@ -58,6 +57,14 @@ main:
     page: https://01yzzyu.github.io/mermaid.github.io/
     type: mllm   
 
+  - title: "Script-a-Video: Deep Structured Audio-visual Captions via Factorized Streams and Relational Grounding"
+    authors: Tencent Hunyuan Team (including <strong><u>Zhongyu Yang</u></strong>)
+    conference_short: Tech Report
+    conference: Tech Report
+    pdf: https://arxiv.org/pdf/2604.11244
+    image: ../assets/img/pub/mtss.png
+    type: mllm   
+    
   - title: "ReChar: Revitalising Characters with Structure Preserved and User-Specified Aesthetic Enhancements."
     authors: <strong><u>Zhongyu Yang</u></strong>, Junhao Song, Zhang Luo, Zuhao Yang, Yang Xu, Jingfen Lan, Yonghan Zhang, Wei Pang, Siyang Song, Yingfang Yuan
     conference_short: SIGGRAPH Asia 2025
