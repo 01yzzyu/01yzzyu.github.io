@@ -8,9 +8,9 @@ Previously, I was a Remote Research Intern at [Vision-CAIR, KAUST](https://visio
 
 ## Research Interests
 
-- **Generative Models:** Image Generation, Video Generation, Sequence Generation
-- **Vision-Language:** Multi-modal Understanding and Generation
-- **Efficient:** Multi-modal token compression for efficient modeling
+- **Generative Models:** Image Generation, Video Generation, Sequence Generation (<a href="https://01yzzyu.github.io/rechar.github.io/">ReChar<sub>SIGGRAPH&nbsp;Asia</sub></a>, <a href="https://01yzzyu.github.io/metronet.github.io/">MeteoNet<sub>CVPR</sub></a>, <a href="https://wikiautogen.github.io/">WikiAutoGen<sub>ICCV</sub></a>)
+- **Vision-Language:** Multi-modal Understanding and Generation (<a href="https://01yzzyu.github.io/UFO/">UFO<sub>ICML</sub></a>, <a href="https://01yzzyu.github.io/svagent.github.io/">SVAgent<sub>CVPR</sub></a>, <a href="https://01yzzyu.github.io/mermaid.github.io/">MERMAID<sub>EMNLP</sub></a>)
+- **Efficient:** Multi-modal token compression for efficient modeling (<a href="https://01yzzyu.github.io/script.github.io/">Script<sub>TMLR</sub></a>)
 
 My long-term goal is to build general-purpose multimodal systems that can perceive, reason, and communicate effectively across visual, textual, and behavioral modalities in dynamic, real-world environments.
 

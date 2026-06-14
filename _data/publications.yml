@@ -3,7 +3,7 @@ main:
   - title: "UFO: A Benchmark for Compositional Multimodal Reasoning in Unified Models — Do Vision and Text Cues Exhibit Evidential Coupling?"
     authors: <strong><u>Zhongyu Yang</u></strong>, Dannong Xu, Yonghan Zhang, Kefan Chen, Xinyi Wang, Yang Xu, Wei Pang, Yingfang Yuan
     conference_short: ICML 2026
-    conference: ICML 2026 (Under Review)
+    conference: ICML 2026
     pdf: https://openreview.net/forum?id=6UKaYYRM3h
     page: https://01yzzyu.github.io/UFO/
     code: https://github.com/01yzzyu/UFO
