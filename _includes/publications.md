@@ -143,7 +143,7 @@
       <div class="pub-row">
         <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
           {% if link.image %}
-          <img src="{{ link.image }}" playsinline="" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
+          <img src="{{ link.image }}" playsinline="" class="teaser img-fluid z-depth-1" loading="lazy">
           {% endif %}
           {% if link.video %}
           <video poster="" id="teaser" autoplay muted loop class="teaser img-fluid z-depth-1">
