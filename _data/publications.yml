@@ -88,7 +88,7 @@ main:
     authors: Zhengwei Zou, Xuanming Jiang, Dingyu Nie, Zhengxing Fang, Qingyu Liu, Xueming Qian, Baoyi An, Guoshuai Zhao, <strong><u>Zhongyu Yang†</u></strong>
     conference_short: ACL 2026
     conference: ACL 2026
-    pdf: https://scholar.google.com/citations?hl=en&user=uToGtIwAAAAJ
+    pdf: https://scholar.google.com/citations?hl=en&user=x2VGVvcAAAAJ
     image: ../assets/img/pub/emores.png
     type: mllm,agent
 
