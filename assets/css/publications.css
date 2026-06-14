@@ -81,7 +81,7 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 .publications ol.bibliography li div.abstract.hidden.open { border-color: var(--global-text-color); }
 
-.publications ol.bibliography li .teaser { border-radius: 4px; box-shadow: 1px 1px 4px #2323232b; height: 120px !important; width: 100% !important; max-width: 340px; object-fit: contain !important; object-position: center; background: #ffffff; padding: 3px; margin-top: 5px; margin-left: 5px; margin-bottom: 5px;}
+.publications ol.bibliography li .teaser { border-radius: 4px; box-shadow: 1px 1px 4px #2323232b; height: 120px !important; width: 340px !important; max-width: 100%; object-fit: contain !important; object-position: center; background: #ffffff; padding: 3px; margin-top: 5px; margin-left: 5px; margin-bottom: 5px;}
 
 @media (prefers-color-scheme: dark) {
   .publications ol.bibliography li .teaser { background: #f3f3f3; }
