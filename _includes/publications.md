@@ -36,7 +36,9 @@
   }
 
   .pub-type {
-    width: 80px;
+    min-width: 70px;
+    padding-left: 12px;
+    padding-right: 12px;
     height: 26px;
     line-height: 24px;
     background-color: #f1f1f1;
@@ -61,12 +63,16 @@
     background-color: #9abcec;
   }
 
-  .pub-type[data-type="economy"] {
-    background-color: #ffd966;
+  .pub-type[data-type="agent"] {
+    background-color: #b39ddb;
   }
 
-  .pub-type[data-type="math"] {
-    background-color: #b39ddb;
+  .pub-type[data-type="video"] {
+    background-color: #80cbc4;
+  }
+
+  .pub-type[data-type="science"] {
+    background-color: #ffd966;
   }
 
   .pub-type:hover {
@@ -95,16 +101,22 @@
     color: white;
   }
 
-  .pub-type[data-type="economy"]:hover,
-  .active[data-type="economy"] {
-    background-color: #f1c232;
-    color: black;
-  }
-
-  .pub-type[data-type="math"]:hover,
-  .active[data-type="math"] {
+  .pub-type[data-type="agent"]:hover,
+  .active[data-type="agent"] {
     background-color: #7e57c2;
     color: white;
+  }
+
+  .pub-type[data-type="video"]:hover,
+  .active[data-type="video"] {
+    background-color: #00897b;
+    color: white;
+  }
+
+  .pub-type[data-type="science"]:hover,
+  .active[data-type="science"] {
+    background-color: #f1c232;
+    color: black;
   }
 
   .pub-item {
@@ -113,16 +125,17 @@
 </style>
 
 <br>
-<h2 id="publications" style="margin: 2px 0px -15px;">Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?hl=en&user=uToGtIwAAAAJ" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp></h2>
+<h2 id="publications" style="margin: 2px 0px -15px;">Selected Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?hl=en&user=uToGtIwAAAAJ" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp></h2>
 
 <div class="publications">
   <ol class="bibliography">
     <div class="pub-type-filter">
       <div class="pub-type" data-type="all" onmouseover="handleMouseEnter(this)">All</div>
-      <div class="pub-type" data-type="genai" onmouseover="handleMouseEnter(this)">GenAI</div>
       <div class="pub-type" data-type="mllm" onmouseover="handleMouseEnter(this)">MLLM</div>
-      <div class="pub-type" data-type="economy" onmouseover="handleMouseEnter(this)">Economy</div>
-      <div class="pub-type" data-type="math" onmouseover="handleMouseEnter(this)">Math</div>
+      <div class="pub-type" data-type="genai" onmouseover="handleMouseEnter(this)">Generative</div>
+      <div class="pub-type" data-type="agent" onmouseover="handleMouseEnter(this)">Agentic</div>
+      <div class="pub-type" data-type="video" onmouseover="handleMouseEnter(this)">Video</div>
+      <div class="pub-type" data-type="science" onmouseover="handleMouseEnter(this)">AI4Science</div>
     </div>
 
     {% for link in site.data.publications.main %}

@@ -17,7 +17,7 @@ main:
     pdf: http://arxiv.org/abs/2604.05079
     # page: https://01yzzyu.github.io/svagent.github.io/
     image: ../assets/img/pub/svagent.png
-    type: mllm   
+    type: mllm,video,agent
 
   - title: "XR: Cross-Modal Agents for Composed Image Retrieval."
     authors: <strong><u>Zhongyu Yang</u></strong>, Wei Pang, Yingfang Yuan
@@ -27,7 +27,7 @@ main:
     page: https://01yzzyu.github.io/xr.github.io/
     code: https://github.com/01yzzyu/xr.github.io/tree/master/XR
     image: ../assets/img/pub/XR.png
-    type: mllm
+    type: mllm,agent
 
   - title: "WikiAutoGen: Towards Multi-Modal Wikipedia-Style Article Generation"
     authors: <strong><u>Zhongyu Yang†</u></strong>, Jun Chen†, Dannong Xu, Junjie Fei, Xiaoqian Shen, Liangbing Zhao, Chun-Mei Feng, Mohamed Elhoseiny
@@ -37,7 +37,7 @@ main:
     page: https://wikiautogen.github.io/
     code: https://github.com/01yzzyu/wikiautogen
     image: ../assets/img/pub/wikiautogen_framework.png
-    type: mllm
+    type: genai,agent
 
   - title: "InEx: Hallucination Mitigation via Introspection and Cross-Modal Multi-Agent Collaboration."
     authors: <strong><u>Zhongyu Yang</u></strong>, Yingfang Yuan, Xuanming Jiang, Baoyi An, Wei Pang 
@@ -46,7 +46,7 @@ main:
     pdf: https://arxiv.org/pdf/2512.02981
     page: https://01yzzyu.github.io/inex.github.io/
     image: ../assets/img/pub/InEx.png
-    type: mllm   
+    type: mllm,agent
     
   - title: "Script: Graph-Structured and Query-Conditioned Semantic Token Pruning for Multimodal Large Language Models"
     authors: <strong><u>Zhongyu Yang†</u></strong>, Dannong Xu†, Wei Pang, Yingfang Yuan
@@ -65,7 +65,7 @@ main:
     pdf: https://01yzzyu.github.io/mermaid.github.io/
     image: ../assets/img/pub/MERMAID.png
     page: https://01yzzyu.github.io/mermaid.github.io/
-    type: mllm   
+    type: mllm,agent
 
   - title: "Script-a-Video: Deep Structured Audio-visual Captions via Factorized Streams and Relational Grounding"
     authors: Tencent Hunyuan Team (including <strong><u>Zhongyu Yang</u></strong>)
@@ -73,7 +73,7 @@ main:
     conference: Tech Report
     pdf: https://arxiv.org/pdf/2604.11244
     image: ../assets/img/pub/mtss.png
-    type: mllm   
+    type: video,genai
     
   - title: "ReChar: Revitalising Characters with Structure Preserved and User-Specified Aesthetic Enhancements."
     authors: <strong><u>Zhongyu Yang</u></strong>, Junhao Song, Zhang Luo, Zuhao Yang, Yang Xu, Jingfen Lan, Yonghan Zhang, Wei Pang, Siyang Song, Yingfang Yuan
@@ -90,7 +90,7 @@ main:
     conference: ACL 2026
     pdf: xxx
     image: ../assets/img/pub/emores.png
-    type: mllm   
+    type: mllm,agent
 
   - title: "MeteoNet: Next-Generation Efficient Reliable Reconstruction Solution for Full-Scale Non-Uniform Meteorological Fields."
     authors: Xuanming Jiang, Baoyi An, Dingyu Nie, Haoyu Ren, Zhengwei Zou, Yizhe Yang, Jialie Shen, Zhiwen Jin, Xueming Qian, <strong><u>Zhongyu Yang*</u></strong>, Guoshuai Zhao.
@@ -98,7 +98,7 @@ main:
     conference: CVPR 2026
     pdf: https://01yzzyu.github.io/metronet.github.io/
     image: ../assets/img/pub/metronet.png
-    type: genai
+    type: genai,science
 
   - title: "Tropical Representations of Chinese Monoids with and without Involutio.n"
     authors: <strong><u>Zhongyu Yang</u></strong>, Hao Wu
@@ -106,7 +106,7 @@ main:
     conference: Technology Report
     pdf: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/01yzzyu/yzzyu.github.io/master/assets/Tropical_Representation.pdf
     image: ../assets/img/pub/tropical_representations.png
-    type: math
+    type: science
 
   - title: "Toward enhancing environmental quality in OECD countries: Role of municipal waste, renewable energy, environmental innovation, and environmental policy."
     authors: Mengying Su, <strong><u>Zhongyu Yang*</u></strong>, Shujaat Abbas, Yuriy Bilan, Agnieszka Majewska
@@ -114,7 +114,7 @@ main:
     conference: Renewable Energy (SCI Q1 TOP, IF = 9.0)
     pdf: https://doi.org/10.1016/j.renene.2023.05.044
     image: ../assets/img/pub/renewenegry.png
-    type: economy
+    type: science
 
   - title: "Green effect of energy transition policy: A quasi-natural Experiment Based on New Energy Demonstration Cities."
     authors: Zhichao Yu, Wenlan Xie, Junjie Guo, <strong><u>Zhongyu Yang*</u></strong>
@@ -122,5 +122,5 @@ main:
     conference: Finance Research Letters (SSCI Q1 TOP, 1/111, IF = 10.4)
     pdf: https://doi.org/10.1016/j.frl.2024.105669
     image: ../assets/img/pub/Greeneffect.png
-    type: economy
+    type: science
 
