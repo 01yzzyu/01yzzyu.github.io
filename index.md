@@ -6,7 +6,7 @@ layout: homepage
 I am a Research Intern at [Tencent Hunyuan](https://hunyuan.tencent.com/) (青云人才计划 / Qingyun Top Talent Program), where I work on **omni-video understanding**.
 Previously, I was a Remote Research Intern at [Vision-CAIR, KAUST](https://vision-cair.kaust.edu.sa/), advised by [Mohamed Elhoseiny](https://cemse.kaust.edu.sa/people/person/mohamed-elhoseiny), and a Research Intern at [SenseTime](https://www.sensetime.com/en). I received my B.S. with a major in Mathematics and a minor in Management from Lanzhou University, China.
 
-My research centers on **omni-video understanding** — building unified models and agents that jointly **perceive, reason over, and generate from** video together with its audio, language, and visual context. I am driven by a single question: how can a model move beyond passive recognition to genuinely understand *what* is happening in a dynamic scene, *why* it happens, and *what comes next* — grounding its reasoning in evidence across every modality and across time.
+My research centers on **omni-video understanding** — building unified models and agents that jointly **perceive, reason over, and generate from** video together with its audio, language, and visual context (e.g., <a href="https://arxiv.org/pdf/2604.11244">Script-a-Video</a>, deep structured audio-visual captioning at Tencent Hunyuan). I am driven by a single question: how can a model move beyond passive recognition to genuinely understand *what* is happening in a dynamic scene, *why* it happens, and *what comes next* — grounding its reasoning in evidence across every modality and across time.
 
 ## Research Interests
 

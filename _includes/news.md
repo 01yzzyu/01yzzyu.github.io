@@ -28,8 +28,6 @@
 <ul id="scrollableDiv" onmouseover="showScrollbar()" onmouseout="hideScrollbar()">
   <li><strong style="color: #c13c33;">[Pinned to top] I am actively seeking a PhD position and a research internship in 2026. I am always happy to discuss potential opportunities!</strong></li>
 
-  <li><b>[2026.05]</b>  At <a href="https://hunyuan.tencent.com/">Tencent Hunyuan</a>, I am driving <b>omni-video understanding</b> — unifying video, audio, and language for reasoning over dynamic scenes, e.g. <a href="https://arxiv.org/pdf/2604.11244">Script-a-Video</a> (deep structured audio-visual captioning). </li>
-
   <li><b>[2026.05]</b>  <a href="https://01yzzyu.github.io/UFO/">UFO</a> was accepted to ICML 2026 🎉. The <a href="https://huggingface.co/datasets/yzzyu/UFO">dataset</a> and <a href="https://github.com/01yzzyu/UFO">code</a> are now open-sourced. </li>
 
   <li><b>[2026.02]</b>  EmoRes was accepted to ACL 2026 🎉. </li>
