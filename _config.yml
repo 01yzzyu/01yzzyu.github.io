@@ -1,17 +1,17 @@
 # Basic Information 
 title: Zhongyu Yang
-position: Tencent Intern
+position: Research Intern @ Tencent Hunyuan
 email: yangzhy21 (at) gmail.com
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+keywords: Zhongyu Yang, multimodal large language models, vision-language, generative models, video understanding, unified models, AI research
+description: Homepage of Zhongyu Yang — research on multimodal large language models, vision-language understanding and generation, and unified generative models.
+canonical: https://01yzzyu.github.io/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/citations?user=YOUR_ID&user=x2VGVvcAAAAJ
+google_scholar: https://scholar.google.com/citations?user=uToGtIwAAAAJ
 cv_link: assets/files/resume.pdf
 github_link: https://github.com/01yzzyu
 linkedin: https://www.linkedin.com/in/yangzhy21

@@ -1,5 +1,15 @@
 main:
 
+  - title: "UFO: A Benchmark for Compositional Multimodal Reasoning in Unified Models — Do Vision and Text Cues Exhibit Evidential Coupling?"
+    authors: <strong><u>Zhongyu Yang</u></strong>, Dannong Xu, Yonghan Zhang, Kefan Chen, Xinyi Wang, Yang Xu, Wei Pang, Yingfang Yuan
+    conference_short: ICML 2026
+    conference: ICML 2026 (Under Review)
+    pdf: https://openreview.net/forum?id=6UKaYYRM3h
+    page: https://01yzzyu.github.io/UFO/
+    code: https://github.com/01yzzyu/UFO
+    image: ../assets/img/pub/ufo.png
+    type: mllm
+
   - title: "SVAgent: Storyline-guided Long Video Understanding via Cross-modal Multi-agent Collaboration."
     authors: <strong><u>Zhongyu Yang</u></strong>, Zuhao Yang, Shuo Zhan, Yue Tan, Wei Pang, Yingfang Yuan
     conference_short: CVPR 2026

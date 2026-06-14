@@ -3,8 +3,8 @@ layout: homepage
 ---
 
 ## About Me
-I am working as a Research Intern (青云人才计划) at [Hunyuan Group](https://hunyuan.tencent.com/), Tencent, Inc, focusing on omnivideo reasoning. 
-Prior to that, I worked as a Remote Research Intern in [Vision-CAIR, King Abdullah University of Science and Technology (KAUST)](https://vision-cair.kaust.edu.sa/), supervised by [Mohamed Elhoseiny](https://cemse.kaust.edu.sa/people/person/mohamed-elhoseiny), and [Sensetime](https://www.sensetime.com/en). I earned a Bachelor of Science degree with a major in Mathematics and a minor in Management from Lanzhou University, China.
+I am a Research Intern at [Tencent Hunyuan](https://hunyuan.tencent.com/) (青云人才计划 / Qingyun Top Talent Program), where I work on omni-video reasoning.
+Previously, I was a Remote Research Intern at [Vision-CAIR, KAUST](https://vision-cair.kaust.edu.sa/), advised by [Mohamed Elhoseiny](https://cemse.kaust.edu.sa/people/person/mohamed-elhoseiny), and a Research Intern at [SenseTime](https://www.sensetime.com/en). I received my B.S. with a major in Mathematics and a minor in Management from Lanzhou University, China.
 
 ## Research Interests
 
