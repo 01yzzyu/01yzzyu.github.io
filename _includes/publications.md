@@ -169,6 +169,13 @@
     font-weight: 600;
     font-size: 0.85rem;
     background: #ffffff;
+    cursor: pointer;
+    transition: background-color 0.2s ease, color 0.2s ease;
+  }
+
+  .pub-stat:hover {
+    background: #4a90e2;
+    color: #ffffff;
   }
 
   .pub-sep {
@@ -184,6 +191,12 @@
     color: #ffffff;
     font-weight: 700;
     font-size: 0.85rem;
+    cursor: pointer;
+    transition: filter 0.2s ease;
+  }
+
+  .pub-stat-total:hover {
+    filter: brightness(0.93);
   }
 </style>
 
@@ -193,11 +206,11 @@
 <div class="publications">
   <div class="pub-stats">
     <span class="pub-stats-label">Publication Statistics:</span>
-    <span class="pub-stat">CCF A: 9</span><span class="pub-sep">|</span>
-    <span class="pub-stat">CCF B: 3</span><span class="pub-sep">|</span>
-    <span class="pub-stat">TMLR: 1</span><span class="pub-sep">|</span>
-    <span class="pub-stat">JCR Q1: 2</span>
-    <span class="pub-stat-total">✓ Total: 15</span>
+    <span class="pub-stat" onclick="showPublications('ccfa')">CCF A: 9</span><span class="pub-sep">|</span>
+    <span class="pub-stat" onclick="showPublications('ccfb')">CCF B: 3</span><span class="pub-sep">|</span>
+    <span class="pub-stat" onclick="showPublications('tmlr')">TMLR: 1</span><span class="pub-sep">|</span>
+    <span class="pub-stat" onclick="showPublications('jcrq1')">JCR Q1: 2</span>
+    <span class="pub-stat-total" onclick="showPublications('all')">✓ Total: 15</span>
   </div>
   <p style="font-size:0.82rem; color:#8a8a8a; margin:6px 0 10px;">† Equal contribution &nbsp;&nbsp; * Corresponding author</p>
   <div class="pub-type-filter">
