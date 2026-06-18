@@ -146,6 +146,28 @@
     background: rgba(128, 128, 128, 0.75);
   }
 
+  .pub-scroll-wrap {
+    position: relative;
+  }
+
+  .pub-scroll-wrap::after {
+    content: "";
+    position: absolute;
+    left: 2px;
+    right: 2px;
+    bottom: 2px;
+    height: 46px;
+    pointer-events: none;
+    border-radius: 0 0 8px 8px;
+    background: linear-gradient(to bottom, rgba(255, 255, 255, 0), #ffffff 92%);
+  }
+
+  @media (prefers-color-scheme: dark) {
+    .pub-scroll-wrap::after {
+      background: linear-gradient(to bottom, rgba(32, 33, 43, 0), #20212b 92%);
+    }
+  }
+
   .pub-stats {
     display: flex;
     flex-wrap: wrap;
@@ -222,6 +244,7 @@
     <div class="pub-type" data-type="science" onmouseover="handleMouseEnter(this)">AI4Science</div>
   </div>
 
+  <div class="pub-scroll-wrap">
   <div class="pub-scroll">
   <ol class="bibliography">
     {% for link in site.data.publications.main %}
@@ -276,6 +299,7 @@
   </li>
     {% endfor %}
 </ol>
+  </div>
   </div>
   <p style="text-align:center; font-size:0.8rem; color:#8a8a8a; margin:8px 0 0;">↓ scroll to see more publications</p>
 </div>

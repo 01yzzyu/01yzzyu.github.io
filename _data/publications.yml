@@ -133,11 +133,11 @@ main:
     type: genai,ccfa
     
   - title: "EmoRes: Toward Adaptive Psychological Support via User-Agnostic Benchmark and Topic-Mining Agent"
-    authors: Zhengwei Zou, Xuanming Jiang, Dingyu Nie, Zhengxing Fang, Qingyu Liu, Xueming Qian, Baoyi An, Guoshuai Zhao, <strong><u>Zhongyu Yang*</u></strong>
+    authors: Zhengwei Zou, Xuanming Jiang, Baoyi An, Dingyu Nie, Zhengxing Fang, Qingyu Liu, Xueming Qian, Guoshuai Zhao, <strong><u>Zhongyu Yang*</u></strong>
     conference_short: ACL 2026
     conference: ACL 2026
     pdf: https://scholar.google.com/citations?hl=en&user=x2VGVvcAAAAJ
-    image: ../assets/img/pub/emores.png
+    image: ../assets/img/pub/emores_fig.png
     type: mllm,agent,ccfa
 
   - title: "MeteoNet: Next-Generation Efficient Reliable Reconstruction Solution for Full-Scale Non-Uniform Meteorological Fields."
