@@ -85,6 +85,14 @@ main:
     page: https://01yzzyu.github.io/mermaid.github.io/
     type: mllm,agent,ccfb
 
+  - title: "CHAT: Conversational Human Audio-visual Talking Dialogue Generation"
+    authors: Junhao Song, Lluis Guasch, Xilin He, <strong><u>Zhongyu Yang</u></strong>, Yingfang Yuan, Weicheng Xie, Linlin Shen, Lu Liu, Wei Pang, Siyang Song
+    conference_short: ECCV 2026
+    conference: ECCV 2026
+    pdf: https://scholar.google.com/citations?hl=en&user=x2VGVvcAAAAJ
+    image: ../assets/img/pub/chat_fig.png
+    type: genai,video,ccfb
+
   - title: "ParaVT: Taming the Tool Prior Paradox for Parallel Tool Use in Agentic Video Reinforcement Learning"
     authors: Zuhao Yang, Kaichen Zhang, Sudong Wang, Keming Wu, <strong><u>Zhongyu Yang</u></strong>, Bo Li, Xiaojuan Qi, Shijian Lu, Xingxuan Li, Lidong Bing
     conference_short: Tech Report
