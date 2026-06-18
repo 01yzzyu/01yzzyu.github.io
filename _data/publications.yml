@@ -19,6 +19,14 @@ main:
     image: ../assets/img/pub/svagent.png
     type: mllm,video,agent
 
+  - title: "MultiHaystack: Benchmarking Multimodal Retrieval and Reasoning over 40K Images, Videos, and Documents."
+    authors: Dannong Xu, <strong><u>Zhongyu Yang</u></strong>, Jun Chen, Yingfang Yuan, Ming Hu, Lei Sun, Luc Van Gool, Danda Pani Paudel, Chun-Mei Feng
+    conference_short: ECCV 2026
+    conference: ECCV 2026
+    pdf: https://arxiv.org/abs/2603.05697
+    image: ../assets/img/pub/multihaystack_fig.png
+    type: mllm,video
+
   - title: "XR: Cross-Modal Agents for Composed Image Retrieval."
     authors: <strong><u>Zhongyu Yang</u></strong>, Wei Pang, Yingfang Yuan
     conference_short: WWW 2026
