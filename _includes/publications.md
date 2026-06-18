@@ -122,22 +122,46 @@
   .pub-item {
     display: none;
   }
+
+  .pub-scroll {
+    max-height: 600px;
+    overflow-y: auto;
+    overflow-x: hidden;
+    margin-top: 12px;
+    padding: 4px 14px 4px 4px;
+    border: 1px solid rgba(128, 128, 128, 0.25);
+    border-radius: 8px;
+  }
+
+  .pub-scroll::-webkit-scrollbar {
+    width: 8px;
+  }
+
+  .pub-scroll::-webkit-scrollbar-thumb {
+    background: rgba(128, 128, 128, 0.5);
+    border-radius: 4px;
+  }
+
+  .pub-scroll::-webkit-scrollbar-thumb:hover {
+    background: rgba(128, 128, 128, 0.75);
+  }
 </style>
 
 <br>
 <h2 id="publications" style="margin: 2px 0px -15px;">Selected Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?hl=en&user=x2VGVvcAAAAJ" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp></h2>
 
 <div class="publications">
-  <ol class="bibliography">
-    <div class="pub-type-filter">
-      <div class="pub-type" data-type="all" onmouseover="handleMouseEnter(this)">All</div>
-      <div class="pub-type" data-type="mllm" onmouseover="handleMouseEnter(this)">MLLM</div>
-      <div class="pub-type" data-type="genai" onmouseover="handleMouseEnter(this)">Generative</div>
-      <div class="pub-type" data-type="agent" onmouseover="handleMouseEnter(this)">Agentic</div>
-      <div class="pub-type" data-type="video" onmouseover="handleMouseEnter(this)">Video</div>
-      <div class="pub-type" data-type="science" onmouseover="handleMouseEnter(this)">AI4Science</div>
-    </div>
+  <div class="pub-type-filter">
+    <div class="pub-type" data-type="all" onmouseover="handleMouseEnter(this)">All</div>
+    <div class="pub-type" data-type="mllm" onmouseover="handleMouseEnter(this)">MLLM</div>
+    <div class="pub-type" data-type="genai" onmouseover="handleMouseEnter(this)">Generative</div>
+    <div class="pub-type" data-type="agent" onmouseover="handleMouseEnter(this)">Agentic</div>
+    <div class="pub-type" data-type="video" onmouseover="handleMouseEnter(this)">Video</div>
+    <div class="pub-type" data-type="science" onmouseover="handleMouseEnter(this)">AI4Science</div>
+  </div>
 
+  <div class="pub-scroll">
+  <ol class="bibliography">
     {% for link in site.data.publications.main %}
   <li class="pub-item" data-type="{{ link.type }}">
       <div class="pub-row">
@@ -187,4 +211,5 @@
   </li>
     {% endfor %}
 </ol>
+  </div>
 </div>
