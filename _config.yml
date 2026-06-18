@@ -39,6 +39,7 @@ font: "Serif" # or "Sans Serif"
 
 # The following files will be removed from the generated website.
 exclude:
+  - google_scholar_crawler
   - Gemfile
   - Gemfile.lock
   - minimal-light.gemspec

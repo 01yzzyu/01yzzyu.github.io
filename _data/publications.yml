@@ -32,7 +32,7 @@ main:
   - title: "SCOPE: Streaming Covariance-Orthogonal Patching for Efficient LLM Safety Governance."
     authors: Yizhe Yang, Xuanming Jiang, Jisheng Dang, Aoying Wang, Baoyi An, Hao Wu, Guoshuai Zhao, Bimei Wang, Hong Peng, Bin Hu, <strong><u>Zhongyu Yang*</u></strong>
     conference_short: KDD 2026
-    conference: KDD 2026 (Core A*)
+    conference: KDD 2026
     pdf: https://scholar.google.com/citations?hl=en&user=x2VGVvcAAAAJ
     image: ../assets/img/pub/scope_fig.png
     type: mllm
@@ -87,8 +87,8 @@ main:
 
   - title: "ParaVT: Taming the Tool Prior Paradox for Parallel Tool Use in Agentic Video Reinforcement Learning"
     authors: Zuhao Yang, Kaichen Zhang, Sudong Wang, Keming Wu, <strong><u>Zhongyu Yang</u></strong>, Bo Li, Xiaojuan Qi, Shijian Lu, Xingxuan Li, Lidong Bing
-    conference_short: Preprint
-    conference: arXiv 2026
+    conference_short: Tech Report
+    conference: Tech Report
     pdf: https://arxiv.org/abs/2605.20342
     page: https://evolvinglmms-lab.github.io/ParaVT/
     code: https://github.com/EvolvingLMMs-Lab/ParaVT
@@ -98,8 +98,8 @@ main:
 
   - title: "Visual Generation in the New Era: An Evolution from Atomic Mapping to Agentic World Modeling"
     authors: Keming Wu, Zuhao Yang, Kaichen Zhang, Shizun Wang, Haowei Zhu, Sicong Leng, <strong><u>Zhongyu Yang</u></strong>, Qijie Wang, Sudong Wang, Ziting Wang, et al.
-    conference_short: Preprint
-    conference: arXiv 2026
+    conference_short: Tech Report
+    conference: Tech Report
     pdf: https://arxiv.org/abs/2604.28185
     page: https://evolvinglmms-lab.github.io/Evolving-Visual-Generation/
     code: https://github.com/EvolvingLMMs-Lab/Evolving-Visual-Generation

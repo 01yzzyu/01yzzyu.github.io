@@ -1,0 +1,39 @@
+name: Google Scholar Citations
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'google_scholar_crawler/**'
+      - '.github/workflows/google_scholar_crawler.yml'
+  schedule:
+    - cron: "0 8 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install dependencies
+        run: |
+          cd google_scholar_crawler
+          pip install -r requirements.txt
+      - name: Crawl Google Scholar
+        run: |
+          cd google_scholar_crawler
+          python main.py
+        env:
+          GOOGLE_SCHOLAR_ID: x2VGVvcAAAAJ
+      - name: Deploy stats to google-scholar-stats branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./google_scholar_crawler/results
+          publish_branch: google-scholar-stats
