@@ -145,12 +145,61 @@
   .pub-scroll::-webkit-scrollbar-thumb:hover {
     background: rgba(128, 128, 128, 0.75);
   }
+
+  .pub-stats {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 8px 6px;
+    margin: 10px 0 16px;
+  }
+
+  .pub-stats-label {
+    font-weight: 700;
+    color: #2b6cb0;
+    margin-right: 2px;
+  }
+
+  .pub-stat {
+    display: inline-block;
+    padding: 2px 12px;
+    border: 2px solid #4a90e2;
+    border-radius: 18px;
+    color: #2b6cb0;
+    font-weight: 600;
+    font-size: 0.85rem;
+    background: #ffffff;
+  }
+
+  .pub-sep {
+    color: #b8cfe6;
+    font-weight: 600;
+  }
+
+  .pub-stat-total {
+    display: inline-block;
+    padding: 2px 14px;
+    border-radius: 18px;
+    background: #f5a623;
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 0.85rem;
+  }
 </style>
 
 <br>
 <h2 id="publications" style="margin: 2px 0px -15px;">Selected Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?hl=en&user=x2VGVvcAAAAJ" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp></h2>
 
 <div class="publications">
+  <div class="pub-stats">
+    <span class="pub-stats-label">Publication Statistics:</span>
+    <span class="pub-stat">CCF A: 9</span><span class="pub-sep">|</span>
+    <span class="pub-stat">CCF B: 2</span><span class="pub-sep">|</span>
+    <span class="pub-stat">TMLR: 1</span><span class="pub-sep">|</span>
+    <span class="pub-stat">JCR Q1: 2</span><span class="pub-sep">|</span>
+    <span class="pub-stat">Preprint: 4</span>
+    <span class="pub-stat-total">✓ Total: 18</span>
+  </div>
   <p style="font-size:0.82rem; color:#8a8a8a; margin:6px 0 10px;">† Equal contribution &nbsp;&nbsp; * Corresponding author</p>
   <div class="pub-type-filter">
     <div class="pub-type" data-type="all" onmouseover="handleMouseEnter(this)">All</div>
