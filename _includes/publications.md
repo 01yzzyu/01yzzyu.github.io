@@ -215,4 +215,5 @@
     {% endfor %}
 </ol>
   </div>
+  <p style="text-align:center; font-size:0.8rem; color:#8a8a8a; margin:8px 0 0;">↓ scroll to see more publications</p>
 </div>

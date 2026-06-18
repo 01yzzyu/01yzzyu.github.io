@@ -44,6 +44,10 @@
         <position style="font-size:1.10rem;">{{ site.position }}</position>
         <br>
         {% endif %}
+        {% if site.tagline %}
+        <tagline style="font-size:0.92rem; color:#8a8a8a; font-weight:600; letter-spacing:0.01em;">{{ site.tagline }}</tagline>
+        <br>
+        {% endif %}
         {% if site.affiliation %}
         <a href="{{ site.affiliation_link }}" rel="noopener"><autocolor>{{ site.affiliation }}</autocolor></a>
         <br>
@@ -85,6 +89,11 @@
         </a>
         {% endif %}
         </div>
+        {% if site.google_scholar %}
+        <a href="{{ site.google_scholar }}" target="_blank" rel="noopener" style="border:none;">
+          <img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?logo=googlescholar&logoColor=white&style=flat-square">
+        </a>
+        {% endif %}
         <br>
 
       </header>
