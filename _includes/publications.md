@@ -124,7 +124,7 @@
   }
 
   .pub-scroll {
-    max-height: 600px;
+    max-height: 440px;
     overflow-y: auto;
     overflow-x: hidden;
     margin-top: 12px;
@@ -194,6 +194,9 @@
             {% endif %}
             {% if link.code %}
             <a href="{{ link.code }}" target="_blank" class="btn btn-sm z-depth-0" style="font-size:12px;">Code</a>
+            {% endif %}
+            {% if link.data %}
+            <a href="{{ link.data }}" target="_blank" class="btn btn-sm z-depth-0" style="font-size:12px;">Data</a>
             {% endif %}
             {% if link.bibtex %}
             <a href="{{ link.cbibtex }}" target="_blank" class="btn btn-sm z-depth-0" style="font-size:12px;">BibTex</a>

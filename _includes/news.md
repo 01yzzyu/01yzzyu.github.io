@@ -30,6 +30,8 @@
 
   <li><b>[2026.06]</b>  CHAT and <a href="https://arxiv.org/abs/2603.05697">MultiHaystack</a> were accepted to ECCV 2026 🎉. </li>
 
+  <li><b>[2026.05]</b>  SCOPE was accepted to KDD 2026 🎉. </li>
+
   <li><b>[2026.05]</b>  <a href="https://01yzzyu.github.io/UFO/">UFO</a> was accepted to ICML 2026 🎉. The <a href="https://huggingface.co/datasets/yzzyu/UFO">dataset</a> and <a href="https://github.com/01yzzyu/UFO">code</a> are now open-sourced. </li>
 
   <li><b>[2026.02]</b>  EmoRes was accepted to ACL 2026 🎉. </li>

@@ -24,8 +24,18 @@ main:
     conference_short: ECCV 2026
     conference: ECCV 2026
     pdf: https://arxiv.org/abs/2603.05697
+    page: https://danielxu0208.github.io/MultiHaystack.github.io/
+    data: https://huggingface.co/datasets/DanielXu0208/MultiHaystack_Full
     image: ../assets/img/pub/multihaystack_fig.png
     type: mllm,video
+
+  - title: "SCOPE: Streaming Covariance-Orthogonal Patching for Efficient LLM Safety Governance."
+    authors: Yizhe Yang, Xuanming Jiang, Jisheng Dang, Aoying Wang, Baoyi An, Hao Wu, Guoshuai Zhao, Bimei Wang, Hong Peng, Bin Hu, <strong><u>Zhongyu Yang*</u></strong>
+    conference_short: KDD 2026
+    conference: KDD 2026 (Core A*)
+    pdf: https://scholar.google.com/citations?hl=en&user=x2VGVvcAAAAJ
+    image: ../assets/img/pub/scope_fig.png
+    type: mllm
 
   - title: "XR: Cross-Modal Agents for Composed Image Retrieval."
     authors: <strong><u>Zhongyu Yang</u></strong>, Wei Pang, Yingfang Yuan
@@ -75,6 +85,27 @@ main:
     page: https://01yzzyu.github.io/mermaid.github.io/
     type: mllm,agent
 
+  - title: "ParaVT: Taming the Tool Prior Paradox for Parallel Tool Use in Agentic Video Reinforcement Learning"
+    authors: Zuhao Yang, Kaichen Zhang, Sudong Wang, Keming Wu, <strong><u>Zhongyu Yang</u></strong>, Bo Li, Xiaojuan Qi, Shijian Lu, Xingxuan Li, Lidong Bing
+    conference_short: Preprint
+    conference: arXiv 2026
+    pdf: https://arxiv.org/abs/2605.20342
+    page: https://evolvinglmms-lab.github.io/ParaVT/
+    code: https://github.com/EvolvingLMMs-Lab/ParaVT
+    data: https://github.com/EvolvingLMMs-Lab/ParaVT
+    image: ../assets/img/pub/paravt_fig.png
+    type: video,agent
+
+  - title: "Visual Generation in the New Era: An Evolution from Atomic Mapping to Agentic World Modeling"
+    authors: Keming Wu, Zuhao Yang, Kaichen Zhang, Shizun Wang, Haowei Zhu, Sicong Leng, <strong><u>Zhongyu Yang</u></strong>, Qijie Wang, Sudong Wang, Ziting Wang, et al.
+    conference_short: Preprint
+    conference: arXiv 2026
+    pdf: https://arxiv.org/abs/2604.28185
+    page: https://evolvinglmms-lab.github.io/Evolving-Visual-Generation/
+    code: https://github.com/EvolvingLMMs-Lab/Evolving-Visual-Generation
+    image: ../assets/img/pub/evolving_fig.png
+    type: genai
+
   - title: "Script-a-Video: Deep Structured Audio-visual Captions via Factorized Streams and Relational Grounding"
     authors: Tencent Hunyuan Team (including <strong><u>Zhongyu Yang</u></strong>)
     conference_short: Tech Report
@@ -90,6 +121,7 @@ main:
     pdf: https://dl.acm.org/doi/10.1145/3757376.3771409
     image: ../assets/img/pub/rechar.png
     page: https://01yzzyu.github.io/rechar.github.io/
+    code: https://github.com/01yzzyu/rechar.github.io/tree/master/ReChar
     type: genai
     
   - title: "EmoRes: Toward Adaptive Psychological Support via User-Agnostic Benchmark and Topic-Mining Agent"
