@@ -14,6 +14,16 @@
     <link rel="canonical" href="{{ site.canonical }}"/>
     {% endif %}
 
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="{{ site.title }} — {{ site.position }}">
+    <meta property="og:description" content="{{ site.description }}">
+    {% if site.canonical %}<meta property="og:url" content="{{ site.canonical }}">
+    <meta property="og:image" content="{{ site.canonical }}assets/img/profile.jpg">{% endif %}
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="{{ site.title }} — {{ site.position }}">
+    <meta name="twitter:description" content="{{ site.description }}">
+    {% if site.canonical %}<meta name="twitter:image" content="{{ site.canonical }}assets/img/profile.jpg">{% endif %}
+
     <link rel="icon" media="(prefers-color-scheme:dark)" href="{{ site.favicon_dark }}" type="image/png" />
     <link rel="icon" media="(prefers-color-scheme:light)" href="{{ site.favicon }}" type="image/png" />
     <script src="./assets/js/favicon-switcher.js" type="application/javascript"></script>
