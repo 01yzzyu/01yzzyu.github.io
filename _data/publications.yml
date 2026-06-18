@@ -20,7 +20,7 @@ main:
     type: mllm,video,agent
 
   - title: "MultiHaystack: Benchmarking Multimodal Retrieval and Reasoning over 40K Images, Videos, and Documents."
-    authors: Dannong Xu, <strong><u>Zhongyu Yang</u></strong>, Jun Chen, Yingfang Yuan, Ming Hu, Lei Sun, Luc Van Gool, Danda Pani Paudel, Chun-Mei Feng
+    authors: Dannong Xu†, <strong><u>Zhongyu Yang†</u></strong>, Jun Chen, Yingfang Yuan, Ming Hu, Lei Sun, Luc Van Gool, Danda Pani Paudel, Chun-Mei Feng
     conference_short: ECCV 2026
     conference: ECCV 2026
     pdf: https://arxiv.org/abs/2603.05697
@@ -125,7 +125,7 @@ main:
     type: genai
     
   - title: "EmoRes: Toward Adaptive Psychological Support via User-Agnostic Benchmark and Topic-Mining Agent"
-    authors: Zhengwei Zou, Xuanming Jiang, Dingyu Nie, Zhengxing Fang, Qingyu Liu, Xueming Qian, Baoyi An, Guoshuai Zhao, <strong><u>Zhongyu Yang†</u></strong>
+    authors: Zhengwei Zou, Xuanming Jiang, Dingyu Nie, Zhengxing Fang, Qingyu Liu, Xueming Qian, Baoyi An, Guoshuai Zhao, <strong><u>Zhongyu Yang*</u></strong>
     conference_short: ACL 2026
     conference: ACL 2026
     pdf: https://scholar.google.com/citations?hl=en&user=x2VGVvcAAAAJ

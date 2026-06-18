@@ -151,6 +151,7 @@
 <h2 id="publications" style="margin: 2px 0px -15px;">Selected Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?hl=en&user=x2VGVvcAAAAJ" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp></h2>
 
 <div class="publications">
+  <p style="font-size:0.82rem; color:#8a8a8a; margin:6px 0 10px;">† Equal contribution &nbsp;&nbsp; * Corresponding author</p>
   <div class="pub-type-filter">
     <div class="pub-type" data-type="all" onmouseover="handleMouseEnter(this)">All</div>
     <div class="pub-type" data-type="mllm" onmouseover="handleMouseEnter(this)">MLLM</div>
