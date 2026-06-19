@@ -1,8 +1,10 @@
+## Experience
+
 <ul style="margin:0 0 5px;">
 <li style="display: flex; justify-content: space-between; align-items: center; margin-left: -30px;">
   <span>
     <img src="../assets/img/org/hunyuan.png" alt="Tencent@Hunyuan" width="20" height="20" style="vertical-align: middle;">
-    Research Intern, Tencent Qingyun Top Talent Program (腾讯青云人才计划), Hunyuan, <strong>Tencent</strong>
+    Research Intern, Tencent Qingyun Top Talent Program, Hunyuan, <strong>Tencent</strong>
   </span>
   <span>Mar. 2026 – Present</span>
 </li>
