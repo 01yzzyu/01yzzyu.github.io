@@ -16,21 +16,34 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v6
         with:
           python-version: '3.11'
       - name: Install dependencies
         run: |
           cd google_scholar_crawler
-          pip install -r requirements.txt
+          python -m pip install -r requirements.txt
+      - name: Restore previous stats
+        run: |
+          mkdir -p google_scholar_crawler/results
+          git archive origin/google-scholar-stats | tar -x -C google_scholar_crawler/results
       - name: Crawl Google Scholar
+        id: crawl
+        continue-on-error: true
         run: |
           cd google_scholar_crawler
-          python main.py
+          timeout 7m python main.py
         env:
           GOOGLE_SCHOLAR_ID: x2VGVvcAAAAJ
+      - name: Report stale stats
+        if: steps.crawl.outcome == 'failure'
+        run: |
+          echo "::warning::Google Scholar blocked or timed out; keeping the previous citation data."
       - name: Deploy stats to google-scholar-stats branch
         uses: peaceiris/actions-gh-pages@v4
         with:
