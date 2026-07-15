@@ -3,10 +3,17 @@
 <ul style="margin:0 0 5px;">
 <li style="display: flex; justify-content: space-between; align-items: center; margin-left: -30px;">
   <span>
+    <img src="../assets/img/org/modelbest.svg" alt="ModelBest" width="20" height="20" style="vertical-align: middle;">
+    Research Intern, Omni Foundation Model, <a href="https://modelbest.cn/"><strong>ModelBest (面壁智能)</strong></a>
+  </span>
+  <span>Jul. 2026 – Present</span>
+</li>
+<li style="display: flex; justify-content: space-between; align-items: center; margin-left: -30px;">
+  <span>
     <img src="../assets/img/org/hunyuan.png" alt="Tencent@Hunyuan" width="20" height="20" style="vertical-align: middle;">
     Research Intern, Tencent Qingyun Top Talent Program, Hunyuan, <strong>Tencent</strong>
   </span>
-  <span>Mar. 2026 – Present</span>
+  <span>Mar. 2026 – Jul. 2026</span>
 </li>
 <li style="display: flex; justify-content: space-between; align-items: center; margin-left: -30px;">
   <span>

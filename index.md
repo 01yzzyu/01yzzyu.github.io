@@ -7,8 +7,8 @@ layout: homepage
 </style>
 
 ## About Me
-I am a Research Intern at [Tencent Hunyuan](https://hunyuan.tencent.com/) (青云人才计划 / Qingyun Top Talent Program), where my research centers on **omni-video understanding** — jointly interpreting a video together with its accompanying audio and language (e.g., <a href="https://arxiv.org/pdf/2604.11244">Script-a-Video</a>, deep structured audio-visual captioning).
-Previously, I was a remote research intern at [Vision-CAIR, KAUST](https://vision-cair.kaust.edu.sa/), advised by [Mohamed Elhoseiny](https://cemse.kaust.edu.sa/people/person/mohamed-elhoseiny), and a research intern at [SenseTime](https://www.sensetime.com/en). I received my B.S. in Mathematics (minor in Management) from Lanzhou University.
+I am a Research Intern at [ModelBest (面壁智能)](https://modelbest.cn/), where I work on **omni foundation models** for video, audio, and language understanding.
+Previously, I was a research intern at [Tencent Hunyuan](https://hunyuan.tencent.com/) (青云人才计划 / Qingyun Top Talent Program), where my research centered on **omni-video understanding** — jointly interpreting a video together with its accompanying audio and language (e.g., <a href="https://arxiv.org/pdf/2604.11244">Script-a-Video</a>, deep structured audio-visual captioning). I was also a remote research intern at [Vision-CAIR, KAUST](https://vision-cair.kaust.edu.sa/), advised by [Mohamed Elhoseiny](https://cemse.kaust.edu.sa/people/person/mohamed-elhoseiny), and a research intern at [SenseTime](https://www.sensetime.com/en). I received my B.S. in Mathematics (minor in Management) from Lanzhou University.
 
 My research seeks to advance multimodal models from surface-level *recognition* toward genuine *understanding* — reasoning about why events occur and what follows, with inferences grounded in evidence that is consistent across modalities and over time. My work spans four interconnected directions:
 
@@ -30,5 +30,4 @@ I am always open to research collaborations and discussions — please feel free
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
-
 
