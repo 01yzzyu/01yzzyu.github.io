@@ -26,8 +26,6 @@
 </style>
 
 <ul id="scrollableDiv" onmouseover="showScrollbar()" onmouseout="hideScrollbar()">
-  <li><strong style="color: #c13c33;">[Pinned to top] I am actively seeking a PhD position and a research internship in 2026. I am always happy to discuss potential opportunities!</strong></li>
-
   <li><b>[2026.06]</b>  CHAT and <a href="https://arxiv.org/abs/2603.05697">MultiHaystack</a> were accepted to ECCV 2026 🎉. </li>
 
   <li><b>[2026.05]</b>  SCOPE was accepted to KDD 2026 🎉. </li>

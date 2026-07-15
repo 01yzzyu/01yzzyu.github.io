@@ -4,7 +4,7 @@
 <li style="display: flex; justify-content: space-between; align-items: center; margin-left: -30px;">
   <span>
     <img src="../assets/img/org/modelbest.svg" alt="ModelBest" width="20" height="20" style="vertical-align: middle;">
-    Research Intern, Omni Foundation Model, <a href="https://modelbest.cn/"><strong>ModelBest (面壁智能)</strong></a>
+    Research Scientist, Omni Foundation Model, <a href="https://modelbest.cn/"><strong>ModelBest (面壁智能)</strong></a>
   </span>
   <span>Jul. 2026 – Present</span>
 </li>
