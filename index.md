@@ -4,6 +4,7 @@ layout: homepage
 
 <style>
   .venue { color: #8a8a8a !important; font-weight: 600; font-size: 0.72em; }
+  .collaboration-note { color: #1f4ed8; font-weight: 600; }
 </style>
 
 ## About Me
@@ -21,7 +22,7 @@ My research seeks to advance multimodal models from surface-level *recognition* 
 
 In the long term, I aim to develop general-purpose multimodal systems that perceive, reason, and communicate across vision, audio, language, and action in dynamic, real-world environments.
 
-I am always open to research collaborations and discussions — please feel free to [reach out](https://raw.githubusercontent.com/01yzzyu/01yzzyu.github.io/main/assets/img/Wechat.jpg).
+<p class="collaboration-note">I warmly welcome research collaborations and discussions on omni foundation models, multimodal reasoning, and audio-visual understanding — please feel free to <a href="https://raw.githubusercontent.com/01yzzyu/01yzzyu.github.io/main/assets/img/Wechat.jpg">reach out</a>.</p>
 
 {% include_relative _includes/news.md %}
 
