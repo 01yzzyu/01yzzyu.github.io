@@ -5,6 +5,10 @@ layout: homepage
 <style>
   .venue { color: #8a8a8a !important; font-weight: 600; font-size: 0.72em; }
   .collaboration-note { color: #1f4ed8; font-weight: 600; }
+  .collaboration-note a { color: inherit; text-decoration: underline; }
+  @media (prefers-color-scheme: dark) {
+    .collaboration-note { color: #63cfff; }
+  }
 </style>
 
 ## About Me
