@@ -100,7 +100,9 @@ main:
     authors: Junhao Song, Lluis Guasch, Xilin He, <strong><u>Zhongyu Yang</u></strong>, Yingfang Yuan, Weicheng Xie, Linlin Shen, Lu Liu, Wei Pang, Siyang Song
     conference_short: ECCV 2026
     conference: ECCV 2026
-    pdf: https://scholar.google.com/citations?hl=en&user=x2VGVvcAAAAJ
+    pdf: https://link.springer.com/chapter/10.1007/978-3-032-37252-9_33
+    page: https://junhaosong.com/chat/
+    code: https://github.com/Rqcker/chat
     image: ../assets/img/pub/chat_fig.png
     type: genai,video,ccfb
 

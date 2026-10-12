@@ -26,9 +26,7 @@
 </style>
 
 <ul id="scrollableDiv" onmouseover="showScrollbar()" onmouseout="hideScrollbar()">
-  <li><b>[2026.10]</b>  <a href="https://evolvinglmms-lab.github.io/ParaVT/">ParaVT</a> was accepted to NeurIPS 2026 🎉. </li>
-
-  <li><b>[2026.09]</b>  <a href="https://01yzzyu.github.io/OmniCapBench/">OmniCapBench</a> was accepted to NeurIPS 2026 (Evaluations &amp; Datasets Track) 🎉. The <a href="https://huggingface.co/datasets/OmniCapBench/OmniCapBench">dataset</a> and <a href="https://github.com/Tencent-Hunyuan/OmniCapBench">code</a> are now available. </li>
+  <li><b>[2026.09]</b>  <a href="https://01yzzyu.github.io/OmniCapBench/">OmniCapBench</a> (Evaluations &amp; Datasets Track) and <a href="https://evolvinglmms-lab.github.io/ParaVT/">ParaVT</a> were accepted to NeurIPS 2026 🎉. The OmniCapBench <a href="https://huggingface.co/datasets/OmniCapBench/OmniCapBench">dataset</a> and <a href="https://github.com/Tencent-Hunyuan/OmniCapBench">code</a> are now available. </li>
 
   <li><b>[2026.06]</b>  CHAT and <a href="https://arxiv.org/abs/2603.05697">MultiHaystack</a> were accepted to ECCV 2026 🎉. </li>
 
