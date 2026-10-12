@@ -44,7 +44,8 @@ main:
     authors: Yizhe Yang, Xuanming Jiang, Jisheng Dang, Aoying Wang, Baoyi An, Hao Wu, Guoshuai Zhao, Bimei Wang, Hong Peng, Bin Hu, <strong><u>Zhongyu Yang*</u></strong>
     conference_short: KDD 2026
     conference: KDD 2026
-    pdf: https://scholar.google.com/citations?hl=en&user=x2VGVvcAAAAJ
+    pdf: https://dl.acm.org/doi/10.1145/3770855.3817993
+    code: https://github.com/JY-YYZ/SCOPE/
     image: ../assets/img/pub/scope_fig.png
     type: mllm,ccfa
 
@@ -153,11 +154,12 @@ main:
     image: ../assets/img/pub/emores_fig.png
     type: mllm,agent,ccfa
 
-  - title: "MeteoNet: Next-Generation Efficient Reliable Reconstruction Solution for Full-Scale Non-Uniform Meteorological Fields."
+  - title: "Bridge Your Fields: MeteoNet for Efficient Non-Uniform Meteorological Field Reconstruction"
     authors: Xuanming Jiang, Baoyi An, Dingyu Nie, Haoyu Ren, Zhengwei Zou, Yizhe Yang, Jialie Shen, Zhiwen Jin, Xueming Qian, <strong><u>Zhongyu Yang*</u></strong>, Guoshuai Zhao.
     conference_short: CVPR 2026
-    conference: CVPR 2026
-    pdf: https://01yzzyu.github.io/metronet.github.io/
+    conference: CVPR Findings 2026
+    pdf: https://openaccess.thecvf.com/content/CVPR2026F/papers/Jiang_Bridge_Your_Fields_MeteoNet_for_Efficient_Non-Uniform_Meteorological_Field_Reconstruction_CVPRF_2026_paper.pdf
+    page: https://01yzzyu.github.io/metronet.github.io/
     image: ../assets/img/pub/metronet.png
     type: genai,science,ccfa
 
