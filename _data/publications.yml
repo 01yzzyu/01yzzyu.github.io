@@ -1,5 +1,16 @@
 main:
 
+  - title: "OmniCapBench: A Deep-Structured Evaluation Framework for Fine-Grained Audio-Visual Captioning"
+    authors: <strong><u>Zhongyu Yang&dagger;</u></strong>, Jiale Tao&dagger;, Ruitao Chen&dagger;, Zuhao Yang, Yingfang Yuan, Xueliang Zhao, Auden, Kai Wang, Shuai Shao, Biao Wang*, Steve Yves*, Qinglin Lu
+    conference_short: NeurIPS 2026
+    conference: NeurIPS 2026, Evaluations &amp; Datasets Track
+    pdf: https://arxiv.org/abs/2610.12458
+    page: https://01yzzyu.github.io/OmniCapBench/
+    code: https://github.com/Tencent-Hunyuan/OmniCapBench
+    data: https://huggingface.co/datasets/OmniCapBench/OmniCapBench
+    image: ../assets/img/pub/omnicapbench.png
+    type: mllm,video,ccfa
+
   - title: "UFO: A Benchmark for Compositional Multimodal Reasoning in Unified Models — Do Vision and Text Cues Exhibit Evidential Coupling?"
     authors: <strong><u>Zhongyu Yang</u></strong>, Dannong Xu, Yonghan Zhang, Kefan Chen, Xinyi Wang, Yang Xu, Wei Pang, Yingfang Yuan
     conference_short: ICML 2026
@@ -95,14 +106,14 @@ main:
 
   - title: "ParaVT: Taming the Tool Prior Paradox for Parallel Tool Use in Agentic Video Reinforcement Learning"
     authors: Zuhao Yang, Kaichen Zhang, Sudong Wang, Keming Wu, <strong><u>Zhongyu Yang</u></strong>, Bo Li, Xiaojuan Qi, Shijian Lu, Xingxuan Li, Lidong Bing
-    conference_short: Tech Report
-    conference: Tech Report
+    conference_short: NeurIPS 2026
+    conference: NeurIPS 2026
     pdf: https://arxiv.org/abs/2605.20342
     page: https://evolvinglmms-lab.github.io/ParaVT/
     code: https://github.com/EvolvingLMMs-Lab/ParaVT
     data: https://github.com/EvolvingLMMs-Lab/ParaVT
     image: ../assets/img/pub/paravt_fig.png
-    type: video,agent
+    type: mllm,video,agent,ccfa
 
   - title: "Visual Generation in the New Era: An Evolution from Atomic Mapping to Agentic World Modeling"
     authors: Keming Wu, Zuhao Yang, Kaichen Zhang, Shizun Wang, Haowei Zhu, Sicong Leng, <strong><u>Zhongyu Yang</u></strong>, Qijie Wang, Sudong Wang, Ziting Wang, et al.

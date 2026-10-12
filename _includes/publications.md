@@ -228,11 +228,11 @@
 <div class="publications">
   <div class="pub-stats">
     <span class="pub-stats-label">Publication Statistics:</span>
-    <span class="pub-stat" onclick="showPublications('ccfa')">CCF A: 9</span><span class="pub-sep">|</span>
+    <span class="pub-stat" onclick="showPublications('ccfa')">CCF A: 11</span><span class="pub-sep">|</span>
     <span class="pub-stat" onclick="showPublications('ccfb')">CCF B: 3</span><span class="pub-sep">|</span>
     <span class="pub-stat" onclick="showPublications('tmlr')">TMLR: 1</span><span class="pub-sep">|</span>
     <span class="pub-stat" onclick="showPublications('jcrq1')">JCR Q1: 2</span>
-    <span class="pub-stat-total" onclick="showPublications('all')">✓ Total: 15</span>
+    <span class="pub-stat-total" onclick="showPublications('all')">✓ Total: 17</span>
   </div>
   <p style="font-size:0.82rem; color:#8a8a8a; margin:6px 0 10px;">† Equal contribution &nbsp;&nbsp; * Corresponding author</p>
   <div class="pub-type-filter">
