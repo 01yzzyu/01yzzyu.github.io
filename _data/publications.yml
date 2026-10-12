@@ -157,7 +157,7 @@ main:
   - title: "Bridge Your Fields: MeteoNet for Efficient Non-Uniform Meteorological Field Reconstruction"
     authors: Xuanming Jiang, Baoyi An, Dingyu Nie, Haoyu Ren, Zhengwei Zou, Yizhe Yang, Jialie Shen, Zhiwen Jin, Xueming Qian, <strong><u>Zhongyu Yang*</u></strong>, Guoshuai Zhao.
     conference_short: CVPR 2026
-    conference: CVPR Findings 2026
+    conference: CVPR 2026
     pdf: https://openaccess.thecvf.com/content/CVPR2026F/papers/Jiang_Bridge_Your_Fields_MeteoNet_for_Efficient_Non-Uniform_Meteorological_Field_Reconstruction_CVPRF_2026_paper.pdf
     page: https://01yzzyu.github.io/metronet.github.io/
     image: ../assets/img/pub/metronet.png
